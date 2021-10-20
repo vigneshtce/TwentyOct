@@ -24,5 +24,6 @@ public static void main(String[] args) {
 	System.out.println("Employee gender is"+gen);
 	System.out.println("Employee salary is "+salary);
 	System.out.println("Employee email id is"+email);
+	System.out.println("Testing done");
 }
 }
